@@ -16,5 +16,4 @@ jobs:
           endpoint: ${{ secrets.OSS_REGION }}
           access-key-id: ${{ secrets.OSS_ACCESS_ID }}
           access-key-secret: ${{ secrets.OSS_SECRET_KEY }}
-      - run: ossutil cp -rf ./* oss://${{ secrets.OSS_BUCKET }}/
-      
+      - run: ossutil cp -rf ./ oss://${{ secrets.OSS_BUCKET }}/
