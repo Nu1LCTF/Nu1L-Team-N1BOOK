@@ -1,0 +1,20 @@
+name: push to OSS
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: push
+        uses: manyuanrong/setup-ossutil@v1.0
+        with:
+          endpoint: ${{ secrets.OSS_REGION }}
+          access-key-id: ${{ secrets.OSS_ACCESS_ID }}
+          access-key-secret: ${{ secrets.OSS_SECRET_KEY }}
+      - run: ossutil cp -rf ./* oss://${{ secrets.OSS_BUCKET }}/
+      
