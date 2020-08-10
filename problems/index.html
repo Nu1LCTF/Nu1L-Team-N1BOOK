@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>N1BOOK平台-Nu1L Team</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" id="theme" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css">
+</head>
+<body>
+  <div id="app">
+    <nav>
+      <a href="javascript:changeTheme('vue')">Light</button>
+      <a href="javascript:changeTheme('dark')">Dark</a>
+    </nav>
+  </div>
+  <script>
+    function changeTheme(theme) {
+      var css = document.getElementById('theme');
+      css.setAttribute('href', "//cdn.jsdelivr.net/npm/docsify/lib/themes/"+theme+".css")
+    }
+
+    window.$docsify = {
+      loadSidebar: true,
+      auto2top: true,
+      // loadNavbar: true,
+      loadNavbar: 'nav.md',
+      alias: {
+        '/.*/_sidebar.md' : '/_sidebar.md',
+        '/.*/nav.md' : '/nav .md'
+      },
+      name: '从0到1：CTFer成长之路',
+      repo: ''
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+</body>
+</html>
