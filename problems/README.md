@@ -32,7 +32,7 @@ Nu1L自成立以来，征战于国内外各项CTF赛事，并获得优异成绩�
 
 2019年11月创建`空指针`高质量挑战赛，地址为：[点击这里](https://www.npointer.cn)。
 
-战队部分成员为Blackhat、HITCON、KCON、天府杯等国内外安全会议演讲者，参与过PWN2OWN、GEEKPWN等国际性漏洞破解赛事。部分核心队员效力于Tea Deliverers及eee战队
+战队部分成员为Blackhat、HITCON、KCON、天府杯等国内外安全会议演讲者，参与过天府杯、PWN2OWN、GEEKPWN等国际性漏洞破解赛事。部分核心队员效力于Tea Deliverers及eee战队
 
 ## 本书编写人员（排名不分先后）
 
