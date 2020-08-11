@@ -1,20 +1,20 @@
 * 第一章 web入门
 
-    * [信息搜集](/pages/web/1.1)
-    * [sql注入](/pages/web/1.2)
+    * [举足轻重的信息搜集](/pages/web/1.1)
+    * [CTF中的SQL注入](/pages/web/1.2)
     * [任意文件读取漏洞](/pages/web/1.3)
 
 * 第二章 web进阶
     * [SSRF漏洞](/pages/web/2.1)
     * [命令执行漏洞](/pages/web/2.2)
-    * [文件上传漏洞](/pages/web/2.3)
-    * [XSS漏洞](/pages/web/2.4)
+    * [XSS的魔力](/pages/web/2.3)
+    * [Web文件上传漏洞](/pages/web/2.4)
 
 * 第三章 web进阶
     * [反序列化漏洞](/pages/web/3.1)
     * [Python的安全问题](/pages/web/3.2)
-    * [逻辑漏洞](/pages/web/3.3)
-    * [密码学及逆向知识](/pages/web/3.4)
+    * [密码学和逆向知识](/pages/web/3.3)
+    * [逻辑漏洞](/pages/web/3.4)
 
 * 第四章 CTF之APK章
     * [Android开发基础](/pages/apk/4.1)
@@ -68,15 +68,15 @@
     * [JAVA代码审计](/pages/shenji/10.2)
 
 * 第十一章 线下赛之AWD
-    * [比赛前期的准备⼯作](/pages/awd/11.1)
-    * [比赛中的若⼲trick](/pages/awd/11.2)
-    * [流量分析的重要性](/pages/awd/11.3)
-    * [漏洞修复的⼀一些经验](/pages/awd/11.4)
+    * [比赛前期准备](/pages/awd/11.1)
+    * [比赛技巧](/pages/awd/11.2)
+    * [流量分析](/pages/awd/11.3)
+    * [漏洞修复](/pages/awd/11.4)
 
 * 第十二章 线下赛之靶场渗透
-    * [如何打造一个顺手的渗透环境](/pages/pentest/12.1)
+    * [打造渗透环境](/pages/pentest/12.1)
     * [端口转发与代理](/pages/pentest/12.2)
-    * [常见Exploit方式](/pages/pentest/12.3)
-    * [Dump credentials](/pages/pentest/12.4)
+    * [常见漏洞利用方式](/pages/pentest/12.3)
+    * [获取认证凭证](/pages/pentest/12.4)
     * [横向移动](/pages/pentest/12.5)
-    * [靶场渗透的奇淫技巧](/pages/pentest/12.6)
+    * [靶场渗透案例](/pages/pentest/12.6)
