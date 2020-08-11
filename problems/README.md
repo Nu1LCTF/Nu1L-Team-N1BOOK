@@ -24,6 +24,7 @@ Nu1L自成立以来，征战于国内外各项CTF赛事，并获得优异成绩�
 - 2019年护网杯线上线下双冠王
 - 2019年XCTF总决赛冠军
 - DEFCON CTF2020线上赛全球第20名
+- GEEKPWNCTF2020冠军
 - 2020多场XCTF赛事第一名
 
 `N1CTF`赛事组织者-[点击这里](https://ctftime.org/event/768)
