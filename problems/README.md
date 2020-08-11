@@ -27,7 +27,7 @@ Nu1L自成立以来，征战于国内外各项CTF赛事，并获得优异成绩�
 - GEEKPWNCTF2020冠军
 - 2020多场XCTF赛事第一名
 
-`N1CTF`赛事组织者-[点击这里](https://ctftime.org/event/768)
+`N1CTF`赛事组织者-[点击这里](https://ctftime.org/ctf/240)
 
 2019年11月与春秋GAME共同负责运维`巅峰极客`线下城市靶场赛。
 
