@@ -7,14 +7,14 @@
 * 第二章 web进阶
     * [SSRF漏洞](/pages/web/2.1)
     * [命令执行漏洞](/pages/web/2.2)
-    * [XSS的魔力](/pages/web/2.3)
-    * [Web文件上传漏洞](/pages/web/2.4)
+    * [XSS的魔力](/pages/web/2.4)
+    * [Web文件上传漏洞](/pages/web/2.3)
 
 * 第三章 web进阶
     * [反序列化漏洞](/pages/web/3.1)
     * [Python的安全问题](/pages/web/3.2)
-    * [密码学和逆向知识](/pages/web/3.3)
-    * [逻辑漏洞](/pages/web/3.4)
+    * [密码学和逆向知识](/pages/web/3.4)
+    * [逻辑漏洞](/pages/web/3.3)
 
 * 第四章 CTF之APK章
     * [Android开发基础](/pages/apk/4.1)
