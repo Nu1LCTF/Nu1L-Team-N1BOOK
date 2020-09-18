@@ -80,3 +80,6 @@
     * [获取认证凭证](/pages/pentest/12.4)
     * [横向移动](/pages/pentest/12.5)
     * [靶场渗透案例](/pages/pentest/12.6)
+
+* 其他
+    * [勘误表](/pages/others/bugs) 
