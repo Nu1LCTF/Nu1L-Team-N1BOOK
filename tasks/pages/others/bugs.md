@@ -16,8 +16,10 @@
 | 6  | 234页 | 第四自然段中“......都是由COFF（Common File Format）格式发展......”，括号中的英文全称改为“`Common Object File Format`” |
 | 7  | 234页 | 倒数第四行，“在指令中显式可见的寄存器”，改为“在`上下文`中显式可见的寄存器”                                                    |
 | 8  | 238页 | 第9~10行Mircrosoft x64位调用约定处：“依次将前4个参数放入RDI、RSI、RDX、RCX”改为“依次（从左至右）将前4个参数放入`RCX、RDX、R8、R9`”   |
+| 9  | 339页 | ASLR部分第二行"降低攻击者对程序内存结构的了解`程序`", 应`删除`最后的程序二字       |
 
 ## 特别感谢
 
 * [Prowes5](https://prowes5.github.io/): 指出目录页码印刷错误.
-* [hustcw](https://blog.wh98.me/): 指出序号2的错误.
+* [hustcw](https://blog.wh98.me/): 指出序号2中的错误.
+* [ycdxsb](http://blog.ycdxsb.cn/): 指出序号9中的错误.
