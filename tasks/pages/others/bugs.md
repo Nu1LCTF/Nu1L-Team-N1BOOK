@@ -33,7 +33,7 @@
 | 14 | 19页 |SELECT title,content FROM wp_news WHERE id='1'#'”中的1应为2                                            |
 | 15 | 361页 |Fast Bin Attack 节小标题序号 6.3.6.2 应为 6.6.3.2                                                 |
 | 16 | 35页 |四级标题错误，应为1.3.1.2，1.3.1.3                                                 |
-
+| 17 | 317页 |base block改为basic block（base block也有说法，但普遍都是basic block）                                             |
 
 ## 特别感谢
 
