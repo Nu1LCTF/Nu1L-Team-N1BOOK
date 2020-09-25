@@ -35,6 +35,7 @@
 | 16 | 35页 |四级标题错误，应为`1.3.1.2`，`1.3.1.3`                                                 |
 | 17 | 317页 |base block改为`basic block`（base block也有说法，但普遍都是basic block）                                             |
 | 18 | 495页 | 在 lsb_encode 函数中 rgb[i] = rgb[i] & 0xfe + int(msg[count]) & 1 需要改为 `rgb[i] = (rgb[i] & 0xfe) + (int(msg[count]) & 1)` |
+| 19 | 29页 | 29页下方的代码中, 第五行(注释将空格替换为空一行), 应改为 $id = str_replace(" ", "", `$id`); |
 
 ## 特别感谢
 
