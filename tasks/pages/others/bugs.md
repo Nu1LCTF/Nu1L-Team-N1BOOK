@@ -37,6 +37,7 @@
 | 18 | 495页 | 在 lsb_encode 函数中 rgb[i] = rgb[i] & 0xfe + int(msg[count]) & 1 需要改为 `rgb[i] = (rgb[i] & 0xfe) + (int(msg[count]) & 1)` |
 | 19 | 29页 | 29页下方的代码中, 第五行(注释将空格替换为空一行), 应改为 $id = str_replace(" ", "", `$id`); |
 | 20 | 57页 | 第一个图1-3-22为`1-3-21` |
+| 21 | 18页 | 最后一自然段中 sql2.php?id=3-2 应改为 `sql2.php?id=3-1` |
 
 ## 特别感谢
 
