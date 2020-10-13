@@ -54,5 +54,5 @@
 * [Hh0](https://www.cnblogs.com/wrnan/): 指出序号18中的错误.
 * [Adbase](#): 指出序号21中的错误.
 * [kawhi](#):  指出序号22中的错误.
-* [Brucy](https://blog.csdn.net/qq_41252520):  指出序号25中的错误.
 * [NWPU-feng](#):  指出序号24中的错误.
+* [Brucy](https://blog.csdn.net/qq_41252520):  指出序号25中的错误.
