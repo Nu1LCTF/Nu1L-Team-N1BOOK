@@ -14,7 +14,7 @@
 
 ## 本书购买链接
 
-电子工业出版社京东旗舰店地址-[点击这里](https://item.jd.com/12950900.html)
+电子工业出版社京东旗舰店地址-[点击这里](https://item.jd.com/12988770.html)
 
 电子工业出版社天猫旗舰店地址-[点击这里](https://detail.tmall.com/item.htm?id=625108182109)
 
