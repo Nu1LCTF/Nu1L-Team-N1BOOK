@@ -45,6 +45,9 @@
 | 26 | 467页 | 使用了相同的n,不同的模数e1 应为 `使用了相同的模数n，不同的指数e1` |
 | 27 | 449页 | 有限域的标题下面的第二段的最后一句话，使得a*(a^-1)=e”，e应该改为`1` |
 | 28 | 543页 | 代码注释中：首先创建某些OutputStream对象”，OutputStream应该为InputStream |
+| 29 | 359页 | 用户申请非fast bin 大小的内存会先从unsorted bin中查找应为`如果Fast bin和Small bin中都没有找到合适的chunk，用户申请内存时就会从Unsorted bin中查找`|
+| 30 | 156页 | 小结第二行，才才能应为`才能`|
+
 
 ## 特别感谢
 
@@ -58,3 +61,5 @@
 * [kawhi](#):  指出序号22中的错误.
 * [NWPU-feng](#):  指出序号24中的错误.
 * [Brucy](https://blog.csdn.net/qq_41252520):  指出序号25中的错误.
+* [neoro](https://www.yuque.com/neoro):  指出序号29中的错误.
+* [falca](#):  指出序号30中的错误.
