@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - name: push
-        uses: manyuanrong/setup-ossutil@v1.0
+        uses: manyuanrong/setup-ossutil@v2.0
         with:
           endpoint: ${{ secrets.OSS_REGION }}
           access-key-id: ${{ secrets.OSS_ACCESS_ID }}
