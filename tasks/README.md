@@ -24,7 +24,6 @@ Nu1L战队成立于2015年10月，源于英文单词"NULL"，国内顶尖CTF联�
 
 Nu1L自成立以来，征战于国内外各项CTF赛事，并获得优异成绩，如：
 
-- DEFCONCHINA BCTF2018冠军
 - TCTF2018全球总决赛获得全球第四名，国内第一名
 - LCTF、SCTF连续三年冠军
 - 2018年网鼎杯总决赛全国第二名
@@ -33,7 +32,7 @@ Nu1L自成立以来，征战于国内外各项CTF赛事，并获得优异成绩�
 - 2019年XCTF总决赛冠军
 - DEFCON CTF2020线上赛全球第20名
 - GEEKPWNCTF2020冠军
-- 2020多场XCTF赛事第一名
+- DEFCON CTF 29决赛全球第七名
 
 `N1CTF`赛事组织者-[点击这里](https://ctftime.org/ctf/240)
 
