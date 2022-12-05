@@ -44,6 +44,15 @@ This files table contents are outlined below>>>>>
 Default CSS
 =================================================*/
 @import url("css2.css");
+html {
+filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+-webkit-filter:grayscale(100%);
+-moz-filter:grayscale(100%);
+-ms-filter:grayscale(100%);
+-o-filter:grayscale(100%);
+filter:grayscale(100%);
+filter:gray
+}
 body {
   font-size: 16px;
   line-height: 1.8;
